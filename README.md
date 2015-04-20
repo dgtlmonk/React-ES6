@@ -1,4 +1,4 @@
-# React-ES6 
+# React-ES6 Boilerplate
 
 ###
 `npm install`
